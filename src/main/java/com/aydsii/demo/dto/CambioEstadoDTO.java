@@ -1,7 +1,7 @@
-package com.verdegreen.dto;
+package com.aydsii.demo.dto;
 
-import com.verdegreen.model.CambioEstado;
-import com.verdegreen.model.EstadoPedido;
+import com.aydsii.demo.model.CambioEstado;
+import com.aydsii.demo.model.EstadoPedido;
 
 import java.time.LocalDateTime;
 

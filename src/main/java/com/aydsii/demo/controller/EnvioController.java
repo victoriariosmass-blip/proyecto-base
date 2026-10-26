@@ -1,8 +1,8 @@
-package com.verdegreen.controller;
+package com.aydsii.demo.controller;
 
-import com.verdegreen.dto.ApiResponse;
-import com.verdegreen.dto.SeguimientoDTO;
-import com.verdegreen.service.EnvioService;
+import com.aydsii.demo.dto.ApiResponse;
+import com.aydsii.demo.dto.SeguimientoDTO;
+import com.aydsii.demo.service.EnvioService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

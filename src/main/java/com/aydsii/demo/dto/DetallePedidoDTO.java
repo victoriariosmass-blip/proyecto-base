@@ -1,6 +1,6 @@
-package com.verdegreen.dto;
+package com.aydsii.demo.dto;
 
-import com.verdegreen.model.DetallePedido;
+import com.aydsii.demo.model.DetallePedido;
 
 import java.math.BigDecimal;
 

@@ -1,11 +1,11 @@
-package com.verdegreen.service;
+package com.aydsii.demo.service;
 
-import com.verdegreen.dto.SeguimientoDTO;
-import com.verdegreen.exception.RecursoNoEncontradoException;
-import com.verdegreen.model.CambioEstado;
-import com.verdegreen.model.Envio;
-import com.verdegreen.model.Pedido;
-import com.verdegreen.repository.EnvioRepository;
+import com.aydsii.demo.dto.SeguimientoDTO;
+import com.aydsii.demo.exception.RecursoNoEncontradoException;
+import com.aydsii.demo.model.CambioEstado;
+import com.aydsii.demo.model.Envio;
+import com.aydsii.demo.model.Pedido;
+import com.aydsii.demo.repository.EnvioRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

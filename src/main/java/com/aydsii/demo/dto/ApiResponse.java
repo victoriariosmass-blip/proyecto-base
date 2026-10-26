@@ -1,4 +1,4 @@
-package com.verdegreen.dto;
+package com.aydsii.demo.dto;
 
 /**
  * Formato estándar de respuesta: {status, messege, data}.

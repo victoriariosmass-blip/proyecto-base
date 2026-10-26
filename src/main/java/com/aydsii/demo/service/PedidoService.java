@@ -1,14 +1,14 @@
-package com.verdegreen.service;
+package com.aydsii.demo.service;
 
-import com.verdegreen.dto.CompraRequestDTO;
-import com.verdegreen.dto.PedidoResponseDTO;
-import com.verdegreen.exception.RecursoNoEncontradoException;
-import com.verdegreen.exception.ReglaNegocioException;
-import com.verdegreen.model.*;
-import com.verdegreen.repository.CarritoRepository;
-import com.verdegreen.repository.EnvioRepository;
-import com.verdegreen.repository.ParametroRepository;
-import com.verdegreen.repository.PedidoRepository;
+import com.aydsii.demo.dto.CompraRequestDTO;
+import com.aydsii.demo.dto.PedidoResponseDTO;
+import com.aydsii.demo.exception.RecursoNoEncontradoException;
+import com.aydsii.demo.exception.ReglaNegocioException;
+import com.aydsii.demo.model.*;
+import com.aydsii.demo.repository.CarritoRepository;
+import com.aydsii.demo.repository.EnvioRepository;
+import com.aydsii.demo.repository.ParametroRepository;
+import com.aydsii.demo.repository.PedidoRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

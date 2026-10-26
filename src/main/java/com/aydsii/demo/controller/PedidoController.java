@@ -1,9 +1,9 @@
-package com.verdegreen.controller;
+package com.aydsii.demo.controller;
 
-import com.verdegreen.dto.ApiResponse;
-import com.verdegreen.dto.CompraRequestDTO;
-import com.verdegreen.dto.PedidoResponseDTO;
-import com.verdegreen.service.PedidoService;
+import com.aydsii.demo.dto.ApiResponse;
+import com.aydsii.demo.dto.CompraRequestDTO;
+import com.aydsii.demo.dto.PedidoResponseDTO;
+import com.aydsii.demo.service.PedidoService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import io.swagger.v3.oas.annotations.tags.Tag;

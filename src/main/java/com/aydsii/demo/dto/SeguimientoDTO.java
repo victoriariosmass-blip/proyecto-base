@@ -1,9 +1,9 @@
-package com.verdegreen.dto;
+package com.aydsii.demo.dto;
 
-import com.verdegreen.model.CambioEstado;
-import com.verdegreen.model.Envio;
-import com.verdegreen.model.EstadoPedido;
-import com.verdegreen.model.Pedido;
+import com.aydsii.demo.model.CambioEstado;
+import com.aydsii.demo.model.Envio;
+import com.aydsii.demo.model.EstadoPedido;
+import com.aydsii.demo.model.Pedido;
 
 import java.time.LocalDate;
 import java.util.Comparator;

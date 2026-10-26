@@ -1,7 +1,7 @@
-package com.verdegreen.service;
+package com.aydsii.demo.service;
 
-import com.verdegreen.model.Pedido;
-import com.verdegreen.model.Producto;
+import com.aydsii.demo.model.Pedido;
+import com.aydsii.demo.model.Producto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;

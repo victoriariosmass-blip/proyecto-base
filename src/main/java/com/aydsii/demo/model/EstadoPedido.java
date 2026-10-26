@@ -1,4 +1,4 @@
-package com.verdegreen.model;
+package com.aydsii.demo.model;
 
 public enum EstadoPedido {
     ACEPTADO,

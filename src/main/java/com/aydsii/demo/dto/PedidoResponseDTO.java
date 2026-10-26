@@ -1,9 +1,9 @@
-package com.verdegreen.dto;
+package com.aydsii.demo.dto;
 
-import com.verdegreen.model.EstadoPedido;
-import com.verdegreen.model.Envio;
-import com.verdegreen.model.Pedido;
-import com.verdegreen.model.TipoEntrega;
+import com.aydsii.demo.model.EstadoPedido;
+import com.aydsii.demo.model.Envio;
+import com.aydsii.demo.model.Pedido;
+import com.aydsii.demo.model.TipoEntrega;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

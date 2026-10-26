@@ -1,6 +1,6 @@
-package com.verdegreen.dto;
+package com.aydsii.demo.dto;
 
-import com.verdegreen.model.TipoEntrega;
+import com.aydsii.demo.model.TipoEntrega;
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

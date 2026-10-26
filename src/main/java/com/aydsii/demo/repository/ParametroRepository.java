@@ -1,6 +1,6 @@
-package com.verdegreen.repository;
+package com.aydsii.demo.repository;
 
-import com.verdegreen.model.ParametroSistema;
+import com.aydsii.demo.model.ParametroSistema;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

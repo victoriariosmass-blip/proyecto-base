@@ -1,4 +1,4 @@
-package com.verdegreen.exception;
+package com.aydsii.demo.exception;
 
 /** No existe el carrito o el envío pedido. Responde 404. */
 public class RecursoNoEncontradoException extends RuntimeException {

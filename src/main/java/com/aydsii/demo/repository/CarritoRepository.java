@@ -1,6 +1,6 @@
-package com.verdegreen.repository;
+package com.aydsii.demo.repository;
 
-import com.verdegreen.model.Carrito;
+import com.aydsii.demo.model.Carrito;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
